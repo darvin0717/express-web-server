@@ -1,6 +1,6 @@
 ## Project overview
 
-This test project contains basic Express web server
+This testesterone project contains basic Express web server
 
 ## Installing dependencies
 
@@ -10,6 +10,6 @@ This test project contains basic Express web server
 
 `node index.js`
 
-## Connecting to the server
+## Connecting to the server lalala
 
 In the web browser connect to the http://127.0.0.1:3000
